@@ -1,0 +1,319 @@
+ /*========================mindenhol=============*/
+
+body {
+background: linear-gradient( #ebf5fb , #1b4f72 );
+border:solid 2px;
+margin: 5px;
+}
+
+h1 { 
+color:  #f2f3f4 ;
+margin:50px;
+padding:30px;
+font-size:30px;
+text-align: left;
+text-shadow: 1px 1px 1px  #2e4053;
+margin:0px;
+background-color:#3498db;
+box-shadow: inset 0 0 15px black;
+font-family:Verdana;
+}
+
+.bevezeto p{
+font-size: 30px;
+margin: 50px;
+font-family: Tahoma;
+text-align: center;
+}
+
+.nagyobb {
+font-size:30px;
+background-color: #1f618d ;
+}
+
+
+
+#vissza ul {
+list-style-type: none;
+text-align: right;
+
+}
+#vissza li {
+display: inline;
+padding :30px;
+vertical-align:middle;
+}
+
+#vissza a {
+font-size: 25px;
+text-decoration:none;
+border: solid 3px black;
+border-radius: 10px;
+padding: 10px 10px 10px 10px;
+background-color:   #d6eaf8  ;
+color: black;
+vertical-align:middle;
+text-shadow: 2px 2px 5px  #2e4053;
+clear:right;
+opacity: 1.0;
+transition: opacity 1s ease-in-out;
+}
+
+#footer a:hover {
+color:black;
+background-color:white;
+}
+
+
+.feliratok{
+text-align:center;
+text-size:15px;
+font-family:Tahoma;
+font-weight:bold;
+font-style: italic;
+}
+
+
+.face{
+border-radius:16px;
+margin-top:25px;
+margin-right:60px;
+opacity:1.0;
+transition:opacity 0.2s ease-in-out;
+}
+
+.face:hover {
+opacity:0.5;
+}
+
+.snap{
+margin-left:39%;
+border-radius:25px;
+margin-top:25px;
+margin-right:60px;
+opacity:1.0;
+transition:opacity 0.2s ease-in-out;
+}
+
+.snap:hover {
+opacity:0.5;
+}
+
+
+.insta{
+
+border-radius:25px;
+margin-top:25px;
+opacity:1.0;
+transition:opacity 0.2s ease-in-out;
+}
+
+.insta:hover {
+opacity:0.5;
+}
+
+/*=========================mindenhol=============*/
+
+
+/*=============================index=============*/
+
+.kosz p{
+font-family:Tahoma;
+color:black;
+font-size:50px;
+text-shadow: 1px 1px 2px #2c3e50;
+text-align:center;
+}
+
+h2{
+font-family:Tahoma;
+text-shadow: 1px 1px 2px #2c3e50;
+text-align:center;
+font-size: 30px;
+margin-bottom:0;
+}
+
+#menük {
+margin-top:100px;
+font-size:25px;
+font-family:Verdana;
+}
+
+#menük ul {
+margin-bottom:225px;
+list-style-type: none;
+text-align: center;
+
+}
+#menük li {
+display: inline;
+padding :30px;
+vertical-align:middle;
+}
+
+#menük a {
+text-decoration:none;
+border: solid 3px black;
+border-radius: 10px;
+padding: 10px 10px 10px 10px;
+background-color:  #aab7b8 ;
+color: black;
+vertical-align:middle;
+text-shadow: 2px 2px 5px  #2e4053;
+}
+
+#menük a:hover {
+color:green;
+background-color:white;
+}
+
+#menük a:hover {
+color:black;
+background-color:white;
+}
+
+#footer1 {
+border-top: solid 2px;
+border-top-color: black; 
+height:100px;
+font-size:30px;
+background-color: #2874a6 ;
+box-shadow: inset 0 0 15px black;
+}
+
+
+/*======================index====================*/
+
+
+
+/*====================rajzok=====================*/
+
+
+.rajzszov1 p{
+font-family: Tahoma;
+margin-left:300px;
+margin-top:50px;
+margin-right:300px;
+font-size:20px;
+text-align:center;
+}
+
+.rajz {
+display: block;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:5px;
+border: solid 2px;
+padding:10px;
+background-color: #424949
+;
+
+}
+.rajzszov2 p{
+font-family: Tahoma;
+margin-left:300px;
+margin-top:50px;
+margin-right:300px;
+font-size:20px;
+text-align:center;
+}
+
+.rajzszov3 p{
+font-family: Tahoma;
+margin-left:300px;
+margin-top:50px;
+margin-right:300px;
+font-size:20px;
+text-align:center;
+}
+
+/*====================rajzok=====================*/
+
+
+
+/*================solidworks=====================*/
+
+
+.solidszov1 p{
+font-family: Tahoma;
+margin-left:300px;
+margin-top:50px;
+margin-right:300px;
+font-size:20px;
+text-align:center;
+}
+
+.rajzs {
+display: block;
+margin-left:auto;
+margin-right:auto;
+border: solid 2px;
+padding:10px;
+background:linear-gradient(  #fdedec
+,  #78281f
+)
+
+}
+.solidszov2 p{
+font-family: Tahoma;
+margin-left:300px;
+margin-top:50px;
+margin-right:300px;
+font-size:20px;
+text-align:center;
+}
+
+/*================solidworks=====================*/
+
+
+
+
+/*================programozás====================*/
+
+.progszov1 p{
+font-family: Tahoma;
+margin-left:300px;
+margin-top:50px;
+margin-right:300px;
+font-size:20px;
+text-align:center;
+}
+
+.progs {
+display: block;
+margin-left:auto;
+margin-right:auto;
+border: solid 2px;
+padding:40px;
+background-image: url(dark.png);
+border-radius: 10px;
+
+
+}
+.progszov2 p{
+font-family: Tahoma;
+margin-left:300px;
+margin-top:50px;
+margin-right:300px;
+font-size:20px;
+text-align:center;
+}
+
+
+/*================programozás====================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
